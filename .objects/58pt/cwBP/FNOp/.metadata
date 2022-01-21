@@ -1,0 +1,12 @@
+﻿{
+  "Id": "FNOpVF1rLUaDC1sA215quw",
+  "Reference": "eTDWIMqG00-VcK5A6TBmEA/FNOpVF1rLUaDC1sA215quw",
+  "ParentRef": "eTDWIMqG00-VcK5A6TBmEA/cwBPEkmrmU6Wsbtl_wpgOg",
+  "Name": "Chrome: New Tab(1)",
+  "Type": "Screen",
+  "Created": "2022-01-21T12:36:29.9941815Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-21T12:36:29.9941815Z"
+}

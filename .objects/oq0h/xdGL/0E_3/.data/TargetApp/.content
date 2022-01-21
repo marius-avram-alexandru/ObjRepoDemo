@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" ContentHash="thVOpFoOjUiDmvmD_j5pAg" FilePath="C:\Program Files\Amazon Web Services, Inc\Amazon WorkSpaces\workspaces.exe" Selector="&lt;wnd app='workspaces.exe' cls='HwndWrapper*' title='Amazon WorkSpaces' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">06cYDfkcV5kyffE8YUr4jog</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="799692391aca1dda302312bce3f38522.png" xmlns="">07AyOwfNnP0u60g0JSH7UZw</imageRef>
+</TargetApp>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="uN8_hmutgEerM-duSWJ--A" DesignTimeRectangle="0, 0, 2577, 545" FriendlyName="'OverlayWindow'" ScopeSelectorArgument="&lt;wnd app='workspaces.exe' cls='HwndWrapper*' title='OverlayWindow' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.FuzzySelectorArgument>
+    <p:InArgument x:TypeArguments="x:String">
+      <p:Literal x:TypeArguments="x:String" Value="" />
+    </p:InArgument>
+  </TargetAnchorable.FuzzySelectorArgument>
+  <imageRef attrName="ImageBase64" xmlns="">0u6NXldoAEEWdqFw8fZegNQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="903672f7932a303b8049714eee9f379a.png" xmlns="">0gRKiLaXJCE-BgJGAypz32A</imageRef>
+</TargetAnchorable>

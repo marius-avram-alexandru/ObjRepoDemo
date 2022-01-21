@@ -1,0 +1,12 @@
+﻿{
+  "Id": "0E_3z0BoDk-4otEgejhLZg",
+  "Reference": "eTDWIMqG00-VcK5A6TBmEA/0E_3z0BoDk-4otEgejhLZg",
+  "ParentRef": "eTDWIMqG00-VcK5A6TBmEA/xdGLW3cySEqHWD02E8uDfQ",
+  "Name": "Amazon WorkSpaces",
+  "Type": "Screen",
+  "Created": "2022-01-21T12:13:56.8639621Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-21T12:13:56.8639621Z"
+}

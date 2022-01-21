@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="5rdlMw1RVU6fUL8zmCLPEw" Selector="&lt;html app='chrome.exe' title='Google' /&gt;" Url="https://www.google.com/" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0CR-MFfYi-0CWbvaa7zSI0w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="76fe475e2db4938644402c827a2dca0f.png" xmlns="">0kTgHCYXeNketsSHE6-p1CA</imageRef>
+</TargetApp>

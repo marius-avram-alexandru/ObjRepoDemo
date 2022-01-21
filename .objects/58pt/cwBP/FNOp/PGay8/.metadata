@@ -1,0 +1,13 @@
+﻿{
+  "Id": "PGay8wF9kU2umpPSMznwCQ",
+  "Reference": "eTDWIMqG00-VcK5A6TBmEA/PGay8wF9kU2umpPSMznwCQ",
+  "ParentRef": "eTDWIMqG00-VcK5A6TBmEA/FNOpVF1rLUaDC1sA215quw",
+  "Name": "Chrome Legacy Window",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-01-21T12:36:30.0191869Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-21T12:36:30.0191869Z"
+}
