@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.google.com/" ContentHash="9OnFBOaud0SCm7p_1YpDZQ" DesignTimeRectangle="827, 530, 127, 36" ElementType="Button" FriendlyName="'Google Search'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;center&amp;gt;input' name='btnK' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;center&amp;gt;input' name='btnK' tag='INPUT' type='submit' aaname='Google Search' check:text='Google Search' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0emPx-4jOqEitF2D-5gel8w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4a9a3660b21d14bf6ad6910041ca29b2.png" xmlns="">0jiOCR0FvG025FjLHRRGPEQ</imageRef>
+</TargetAnchorable>

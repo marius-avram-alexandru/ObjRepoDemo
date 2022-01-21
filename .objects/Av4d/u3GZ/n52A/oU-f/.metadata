@@ -1,0 +1,13 @@
+﻿{
+  "Id": "oU-ftGjnjUSkJTegvCO1rw",
+  "Reference": "eTDWIMqG00-VcK5A6TBmEA/oU-ftGjnjUSkJTegvCO1rw",
+  "ParentRef": "eTDWIMqG00-VcK5A6TBmEA/n52AfD86BUuTZCXKGEnYsA",
+  "Name": "People also ask",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-01-21T10:23:25.6359675Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-21T10:23:25.6359675Z"
+}

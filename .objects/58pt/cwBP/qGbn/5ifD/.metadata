@@ -1,0 +1,13 @@
+﻿{
+  "Id": "5ifD8jimEkKV2EgoJnSGpA",
+  "Reference": "eTDWIMqG00-VcK5A6TBmEA/5ifD8jimEkKV2EgoJnSGpA",
+  "ParentRef": "eTDWIMqG00-VcK5A6TBmEA/qGbnDDW6AU6cslIVPCPnQA",
+  "Name": "I'm Feeling Lucky",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-01-21T11:01:28.1915143Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-21T11:01:28.1915143Z"
+}

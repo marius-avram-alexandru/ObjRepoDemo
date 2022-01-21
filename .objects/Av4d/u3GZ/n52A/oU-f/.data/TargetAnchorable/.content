@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.google.com/search?q=object+repository+uipath&amp;rlz=1C1GCEA_enRO932RO932&amp;oq=object+repositor&amp;aqs=chrome.1.0i512l2j69i57j0i512l7.4500j1j7&amp;sourceid=chrome&amp;ie=UTF-8" ContentHash="OdVYw1M18EOX-pnG-R50SA" DesignTimeRectangle="188, 631, 150, 27" ElementType="Text" FriendlyName="'People also ask'" FullSelectorArgument="&lt;webctrl aaname='People also ask' parentid='rso' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='People also ask' parentid='rso' tag='SPAN' type='' check:text='People also ask' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='object repository uipath - Google Search' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="352, 635, 18, 18" ElementType="Icon" FriendlyName="'SVG'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;h3&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;g-popup&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;span&amp;gt;svg' parentid='rso' tag='svg' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;h3&amp;gt;span&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;g-popup&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;span&amp;gt;svg' parentid='rso' tag='svg' type='' aaname='' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1GYdkAwVoUkerVh1woAcZhw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0RATPqHhq6UqKFXbw_tML9g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="a022e118410479d972f9aaa1ac89b488.png" xmlns="">0rKlEW1o4RUisPpGkvYQZ4g</imageRef>
+</TargetAnchorable>

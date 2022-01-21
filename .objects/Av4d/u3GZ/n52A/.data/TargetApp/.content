@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="x6_bU8Oc30y-3DWyBPyRBg" Selector="&lt;html app='chrome.exe' title='object repository uipath - Google Search' /&gt;" Url="https://www.google.com/search?q=object+repository+uipath&amp;rlz=1C1GCEA_enRO932RO932&amp;oq=object+repositor&amp;aqs=chrome.1.0i512l2j69i57j0i512l7.4500j1j7&amp;sourceid=chrome&amp;ie=UTF-8" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0Fo0Dt2Tkl0ae6jvetMB-SQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="1ab2a4e348ce18a67378f09fd233acf1.png" xmlns="">02trFIvaqsk2iSsm89xiUnw</imageRef>
+</TargetApp>

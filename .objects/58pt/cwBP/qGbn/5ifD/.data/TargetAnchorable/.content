@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.google.com/" ContentHash="VcqmaMKjGE2vyaO7x4KJrQ" DesignTimeRectangle="966, 530, 143, 36" ElementType="Button" FriendlyName="'I'm Feeling Lucky'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;center&amp;gt;input' name='btnI' tag='INPUT' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;center&amp;gt;input' name='btnI' tag='INPUT' type='submit' aaname='I&amp;apos;m Feeling Lucky' check:text='I&amp;apos;m Feeling Lucky' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0mTtxNvzYxk-uhq-RLNtltg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="a12e918708628b2cfc15cba377ff9ae9.png" xmlns="">0TsqJlMqOGki2thDSUQLxog</imageRef>
+</TargetAnchorable>

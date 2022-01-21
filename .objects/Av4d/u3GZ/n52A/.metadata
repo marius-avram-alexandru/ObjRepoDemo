@@ -1,0 +1,12 @@
+﻿{
+  "Id": "n52AfD86BUuTZCXKGEnYsA",
+  "Reference": "eTDWIMqG00-VcK5A6TBmEA/n52AfD86BUuTZCXKGEnYsA",
+  "ParentRef": "eTDWIMqG00-VcK5A6TBmEA/u3GZM1wJxEOKuiYHe2Eipw",
+  "Name": "Chrome: object repository uipath - Google Search",
+  "Type": "Screen",
+  "Created": "2022-01-21T10:23:25.1119669Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-21T10:23:25.1119669Z"
+}
